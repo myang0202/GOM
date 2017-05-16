@@ -1,0 +1,91 @@
+/* You can add global styles to this file, and also import other style files */
+
+.placeholder{
+  /*border-style:  dotted;
+  border-color: red;*/
+}
+.as-banner{
+  min-width: 100%;
+    height: auto;
+}
+
+/*main text*/
+h1{
+  text:200px;
+  text-align: center;
+  margin-top: 200px;
+}
+.small_container{
+  display: table;
+  margin: 0 auto;
+
+}
+/*Sweet to remember*/
+.small_container_text{
+  text-align: center;
+
+  display: inline-block;
+  vertical-align: top;
+
+}
+.small_container_text h5{
+  display:top;
+}
+
+h3{
+  text-align: center;
+  font-weight: bold;
+}
+#mainpage_container{
+  margin: 50px;
+  width: auto;
+  height: 500px;
+}
+
+
+
+/*ABOUT page*/
+#about_container{
+  height:300px;
+  vertical-align: top;
+}
+#GOM_picture{
+  height:300px;
+  width: 500px;
+  background-image: url(assets/in_process.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: top;
+
+}
+#about_description{
+  display: inline-block;
+  height:300px;
+  width:300px;
+}
+
+/*ORDER page*/
+#how_to_order_picture{
+  height:500px;
+  background-image: url(assets/in_process.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/*FLAVOR page*/
+#flavor_container{
+  height:200px;
+  background-image: url(assets/in_process.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
+
+#contact_information{
+  height:200px;
+  background-image: url(assets/in_process.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
